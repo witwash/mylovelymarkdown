@@ -3,7 +3,7 @@
 - [Introduction](##introduction)
 - [Overview](##overview)
 - [Philosophy](##philosophy)
-- [Documentation](##documentation)
+- [Documentation](##user-content-documentation)
 
 ## Introduction
 
