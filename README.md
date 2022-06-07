@@ -1,10 +1,5 @@
 # Mews styleguide for Flutter apps
 
-- [Introduction](#introduction)
-- [Overview](#overview)
-- [Philosophy](#philosophy)
-- [Documentation](#documentation)
-
 ## Introduction
 
 This document contains some high-level philosophy and policy decisions for the Flutter project, and a description of specific style issues for some parts of the codebase.
