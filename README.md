@@ -1,9 +1,9 @@
 # Mews styleguide for Flutter apps
 
-- [Introduction](##introduction)
-- [Overview](##overview)
-- [Philosophy](##philosophy)
-- [Documentation](##user-content-documentation)
+- [Introduction](#introduction)
+- [Overview](#overview)
+- [Philosophy](#philosophy)
+- [Documentation](#documentation)
 
 ## Introduction
 
